@@ -15,9 +15,3 @@
 	•	Easy to expand (trigger UI, animation, events, etc.)
 
 ⸻
-
-Let me know if you want to:
-	•	Trigger UI or visual effects on speech
-	•	Add a waveform or loudness meter
-	•	Record or save mic input
-	•	Integrate voice commands or AI transcription
